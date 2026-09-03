@@ -1,0 +1,85 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Desenhar wireframes da tela de login",
+      "projeto": "Sistema de Biblioteca Digital",
+      "responsavel": "Ana Paula",
+      "status": "a-fazer",
+      "prioridade": "alta",
+      "prazo": "2026-08-20"
+    },
+    {
+      "id": 2,
+      "titulo": "Levantar requisitos de acessibilidade",
+      "projeto": "App de Monitoramento de Sono",
+      "responsavel": "Carlos Eduardo",
+      "status": "a-fazer",
+      "prioridade": "media",
+      "prazo": "2026-08-22"
+    },
+    {
+      "id": 3,
+      "titulo": "Mapear integrações com serviços de pagamento",
+      "projeto": "Plataforma de Doações",
+      "responsavel": "Juliana Prado",
+      "status": "a-fazer",
+      "prioridade": "baixa",
+      "prazo": "2026-08-25"
+    },
+    {
+      "id": 4,
+      "titulo": "Implementar autenticação de usuários",
+      "projeto": "Sistema de Biblioteca Digital",
+      "responsavel": "Beatriz Lima",
+      "status": "em-andamento",
+      "prioridade": "alta",
+      "prazo": "2026-08-18"
+    },
+    {
+      "id": 5,
+      "titulo": "Prototipar tela de histórico de sono",
+      "projeto": "App de Monitoramento de Sono",
+      "responsavel": "Diego Santos",
+      "status": "em-andamento",
+      "prioridade": "media",
+      "prazo": "2026-08-19"
+    },
+    {
+      "id": 6,
+      "titulo": "Revisar modelo de dados do acervo",
+      "projeto": "Sistema de Biblioteca Digital",
+      "responsavel": "Fernanda Costa",
+      "status": "em-revisao",
+      "prioridade": "baixa",
+      "prazo": "2026-08-15"
+    },
+    {
+      "id": 7,
+      "titulo": "Revisar fluxo de doação recorrente",
+      "projeto": "Plataforma de Doações",
+      "responsavel": "Gabriel Souza",
+      "status": "em-revisao",
+      "prioridade": "alta",
+      "prazo": "2026-08-16"
+    },
+    {
+      "id": 8,
+      "titulo": "Configurar repositório no GitHub",
+      "projeto": "Plataforma de Doações",
+      "responsavel": "Helena Martins",
+      "status": "concluida",
+      "prioridade": "baixa",
+      "prazo": "2026-08-10"
+    },
+    {
+      "id": 9,
+      "titulo": "Definir paleta de cores e tipografia",
+      "projeto": "App de Monitoramento de Sono",
+      "responsavel": "Igor Alves",
+      "status": "concluida",
+      "prioridade": "media",
+      "prazo": "2026-08-11"
+    }
+  ]
+}
